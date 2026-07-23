@@ -12,4 +12,5 @@ I enjoy discovering how software can turn ideas into reality and building projec
 
 When I'm not coding, you can usually find me experimenting in the kitchen, getting lost in a good book, or learning something new. 📚
 
+--
 ✨ *Always learning. Always building.* ✨
