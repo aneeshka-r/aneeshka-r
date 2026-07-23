@@ -6,7 +6,7 @@
 
 ## ✨ About Me ✨
 
-I'm a Computer Science student passionate about exploring how technology can be used to solve real-world problems.
+I'm passionate about exploring how technology can be used to solve real-world problems.
 
 I enjoy discovering how software can turn ideas into reality and building projects that challenge me to learn and grow.
 
