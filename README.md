@@ -1,16 +1,15 @@
-## Hi there 👋
+## ✨ Hi, I'm Aneeshka! ✨
 
-<!--
-**aneeshka-r/aneeshka-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Exploring **AI, software development, and cybersecurity**  
+🌱 Learning, building, and growing one project at a time
 
-Here are some ideas to get you started:
+## ✨ About Me ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student passionate about exploring how technology can be used to solve real-world problems.
+
+I enjoy discovering how software can turn ideas into reality and building projects that challenge me to learn and grow.
+
+When I'm not coding, you can usually find me experimenting in the kitchen, getting lost in a good book, or learning something new. 📚
+
+✨ *Always learning. Always building.* ✨
